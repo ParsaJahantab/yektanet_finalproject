@@ -7,7 +7,7 @@ import json
 # token for @ProjAlertBot
 # API_TOKEN = "5774491533:AAHhtnS7yn2GEqsXyvwzcpZe-T6lpFLxK5g"
 # token for @yektanetaptptojbot
-API_TOKEN = '5339827015:AAFiBhkiSk1hRcZnNrDxY44cJvHhs7ylmzQ'
+API_TOKEN = ''
 
 bot = telebot.TeleBot(API_TOKEN)
 
